@@ -25,7 +25,7 @@ Display | 720 x 1280 pixels, 5 inches (~294 ppi pixel density)
 Camera  | 13 MP, autofocus, LED flash, phase detection 
 
 
-![LG ARISTO 
+
 ![LG ARISTO 2](https://cdn2.gsmarena.com/vv/pics/lg/lg-aristo2.jpg)
  
 
