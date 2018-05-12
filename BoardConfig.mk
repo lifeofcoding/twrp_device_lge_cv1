@@ -46,7 +46,7 @@ BOARD_MKBOOTIMG_ARGS := --kernel_offset 0x00008000 --ramdisk_offset 0x01000000 -
 #KERNEL_TOOLCHAIN_PREFIX := arm-linux-androidkernel-
 #TARGET_KERNEL_CONFIG := cv1_mpcs_us-perf_defconfig
 #TARGET_KERNEL_SOURCE := kernel/lge/msm8937
-#BOARD_USES_QCOM_HARDWARE := true
+BOARD_USES_QCOM_HARDWARE := true
 
 # Partitions
 BOARD_FLASH_BLOCK_SIZE := 131072 # (BOARD_KERNEL_PAGESIZE * 64)
