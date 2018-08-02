@@ -7,4 +7,4 @@ service sbinqseecomd /sbin/qseecomd
     seclabel u:r:recovery:s0
 
 on property:ro.crypto.state=encrypted
-    start sbinqseecomd
+start sbinqseecomd
